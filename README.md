@@ -46,39 +46,8 @@ DevOps
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
 ⭐Featured Projects
-🇯🇵 NihongoCoach
+🇯🇵 NihongoCoach - Japanese Learning Platform
+🔗 ![repository](https://github.com/NovaMindOrganization/edutech-nihongo)
 
-Japanese Learning Platform
-
-React
-Node.js
-PostgreSQL
-Docker
-Redis
-MinIO
-Highlights
-Japanese learning platform
-AI Speaking Practice
-Kanji Learning
-Vocabulary
-Grammar
-Role-Based Access Control
-🔗 ![Repository](https://github.com/NovaMindOrganization/edutech-nihongo)
-
-Healthcare System
-
-Healthcare Management Platform
-
-ASP.NET Core
-EF Core
-SQL Server
-React
-PayPal
-Highlights
-RESTful API
-Appointment Booking
-Payment Integration
-Authentication
-Revenue Management
-
-🔗 ![Repository](https://github.com/nhm809/HealthcareSystem)
+Healthcare System - Healthcare Management Platform
+🔗 ![repository](https://github.com/nhm809/HealthcareSystem)
