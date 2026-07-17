@@ -48,7 +48,7 @@ DevOps
 ⭐Featured Projects
 
 🇯🇵 NihongoCoach - Japanese Learning Platform
-![](https://github.com/NovaMindOrganization/edutech-nihongo)
+![#](https://github.com/NovaMindOrganization/edutech-nihongo)
 
 Healthcare System - Healthcare Management Platform
-![](https://github.com/nhm809/HealthcareSystem)
+![#](https://github.com/nhm809/HealthcareSystem)
