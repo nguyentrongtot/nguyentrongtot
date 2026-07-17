@@ -63,7 +63,7 @@ Kanji Learning
 Vocabulary
 Grammar
 Role-Based Access Control
-🔗 ![Repository](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+🔗 ![Repository](https://github.com/NovaMindOrganization/edutech-nihongo)
 
 Healthcare System
 
@@ -81,4 +81,4 @@ Payment Integration
 Authentication
 Revenue Management
 
-🔗 ![Repository](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+🔗 ![Repository](https://github.com/nhm809/HealthcareSystem)
