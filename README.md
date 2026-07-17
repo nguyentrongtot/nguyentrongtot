@@ -46,8 +46,9 @@ DevOps
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
 ⭐Featured Projects
+
 🇯🇵 NihongoCoach - Japanese Learning Platform
-![storage](https://github.com/NovaMindOrganization/edutech-nihongo)
+![](https://github.com/NovaMindOrganization/edutech-nihongo)
 
 Healthcare System - Healthcare Management Platform
-![repository](https://github.com/nhm809/HealthcareSystem)
+![](https://github.com/nhm809/HealthcareSystem)
