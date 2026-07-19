@@ -86,15 +86,6 @@ Healthcare Management Platform
 
 ---
 
-## 🌱 Currently Learning
-
-- 🏛️ Clean Architecture
-- ☁️ Microservices
-- 📨 RabbitMQ
-- 🐳 Docker
-
----
-
 
 ## 📫 Connect With Me
 
